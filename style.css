@@ -1,0 +1,84 @@
+h1{
+	color: #FFC107;
+	font-family: Helvetica;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #FFC107;
+  font-size : 32px;
+  font-weight: 700;
+}
+
+h2 {
+  color: #FFC107;
+  font-size : 24px;
+  font-weight: 500;
+}
+
+p {
+  color: #343A40;
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  font-weight: lighter;
+  margin: 28px;
+}
+
+a {
+  text-decoration: none;
+  color:  #FFC107;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+body{
+	background-color:#E1E8EB ;
+	font-family: courier;
+
+}
+
+#profile-picture {
+  width: 232px;
+  height: 232px;
+  border-radius: 50%;
+}
+.container {
+  width: 1040px;
+  text-align: center;
+  padding: 24px;
+  margin: 0 auto;
+}
+
+.card-white {
+  background-color: #7952B3;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.4);
+  width: 800px;
+  margin: 12px auto;
+}
+
+.btn-blue {
+  border: solid 1px #8d8f9f;
+  background: #8d8f9f;
+  color: white;
+  padding: 12px;
+  width: 120px;
+  border-radius: 8px;
+}
+ 
+.btn-blue:hover {
+  color: white;
+  background: #909cfb;
+  border:  solid 1px #909cfb;
+  transition: 0.5s;
+}
+
+#profile-picture {
+  width: 232px;
+  height: 232px;
+  border-radius: 50%;
+}
